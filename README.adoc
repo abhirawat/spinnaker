@@ -17,7 +17,7 @@ Note that this repo is only used for issue tracking across the various services 
 - https://github.com/spinnaker/governance/[Governance for the project as a whole]
 There is a lot of activity and we'd welcome participation! 
 
-= More about spinnaker
+= More spinnaker
 
 
 Manage your SDLC in Spinnaker using the GUI (graphical user interface), or config-as-code. View, manage, and construct https://www.spinnaker.io/docs/concepts/#application[application] workflows involving one or all of these resources:
